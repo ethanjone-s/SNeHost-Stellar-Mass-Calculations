@@ -3,8 +3,8 @@ Python pipeline for creating stellar mass calculations for galaxies observed in 
 
 **Requirements**:
 - First, designate a folder/directory that you want to work out of, this directory will be where all of the files and images that are generated will go. This directory can be anywhere on your device, just make sure you can get the path for it (and remember where it is)!
-- Second, you will need to clone two repositories: This respository (GBT-Stellar-Mass-Calculations) and the halphagui repository.
-  - Go to [this link](https://github.com/rfinn/halphagui) and clone the repository to your device. Do the same for this repository. Make sure you clone them to somewhere you remember!
+- Second, you will need to clone two repositories: This respository (GBT-Stellar-Mass-Calculations) and the `halphagui` repository.
+  - Go to [this link](https://github.com/rfinn/halphagui) to clone the `halphagui` repository to your device. Do the same for this repository. Make sure you clone them to somewhere you remember!
 - You will then need to go into that cloned repo and create a python virtual environment with Anaconda. Here is a [link](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment) on how to create the virtual environment. One created, activate the environment.
 - Next, you will need to create a python environment kernel, install the `requirements.txt` for all of the dependencies of the `halphagui` repo, and install `jupyterlab` via these steps:
   1. `pip install ipykernel`
