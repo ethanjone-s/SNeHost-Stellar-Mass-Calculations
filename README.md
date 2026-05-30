@@ -28,7 +28,7 @@ Python pipeline for creating stellar mass calculations for galaxies observed in 
   - Call the `getMasses` function with your table, let it run, and voilà!
     - The output table `galTable_withMasses.fits` automatically is downloaded into your `data` folder in your current working directory.
 
-**Folders**:
+<!-- **Folders**:
 ## dataTables 
 #### MissingAGC_fromSNeHostCatalog_20230425_GBTsample.csv
   - Comma separated list of the 16 SNe host galaxies that had missing AGC numbers from the `UATSNeHostGalaxyCatalogue_20230425.csv`.
@@ -48,3 +48,4 @@ Python pipeline for creating stellar mass calculations for galaxies observed in 
   - Nothing in here yet, but I will include sandbox notebooks that I have worked through that created the output stellar mass calculations for the GBT+Archival sample.
 ## outputs
 #### galTable_withMasses.fits
+-->
